@@ -1,0 +1,13 @@
+{
+  "name": "unityMobile",
+  "displayName": "unityMobile",
+  "expo": {
+    "name": "unityMobile",
+    "slug": "unityMobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+
+}
